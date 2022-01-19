@@ -51,15 +51,15 @@ autocomposing = false
 autorecording = false
 //----
 
-let owner = '6282293295376' // NO OWNER
-let botname = '© Abil Botz' // NAMA BOT
-let ownername = '© Abil Ganz' // NAMA OWNER
-let fake = '© Abil Botz' // FAKENYA
-let yt = 'https://youtube.com/channel/UCJPqI5eVhKPXPL2V8y6pIDA' // YT LU
-let gopay = 'http://bit.ly/qrgopay' // QRGOPAY / NO GOPAY
+let owner = '0128422518' // NO OWNER
+let botname = '© DarkEditz' // NAMA BOT
+let ownername = '© Jalil' // NAMA OWNER
+let fake = '© DarkEditz' // FAKENYA
+let yt = '-' // YT LU
+let gopay = '-' // QRGOPAY / NO GOPAY
 let dana = '-' // QRDANA / NO DANA
-let ovo = 'http://bit.ly/qrovo' // QROVO / NO OVO
-let pulsa = '082293295376' // PULSA
+let ovo = '-' // QROVO / NO OVO
+let pulsa = '-' // PULSA
 
 const fakeimage = fs.readFileSync ('./media/dhani.jpg')
 const fakedhani = fs.readFileSync ('./media/thumb.jpg')
